@@ -1,0 +1,7 @@
+Trabajo práctico:
+
+1.- Implementar acción que maneje el problema de conexión a Internet inexistente.
+
+2.- Al pulsar un actor de la lista se deben poder visualizar los campos faltantes ("actorId" - "lastUpdate").
+
+3.- Implementar petición HTTP POST que envíe datos al servidor. Se debe poder agregar un nuevo actor con sus característcias a la base de datos (desde aplicación Android). El nuevo actor se debe ver reflejado en la aplicación al momento de mostrar la lista de actores.
